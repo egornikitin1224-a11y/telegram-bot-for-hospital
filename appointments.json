@@ -1,0 +1,72 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "user_id": 1968441734,
+      "patient_name": "Никитин Егор",
+      "doctor": "Стоматолог Сидорова Е.М.",
+      "procedure": "Лечение кариеса",
+      "date": "27.02.2026",
+      "time": "09:00",
+      "created_at": "2026-02-27T13:14:38.712342",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "user_id": 1115417901,
+      "patient_name": "Лохов Лох Лохович",
+      "doctor": "Стоматолог Сидорова Е.М.",
+      "procedure": "Удаление зуба",
+      "date": "04.03.2026",
+      "time": "16:00",
+      "created_at": "2026-02-27T13:15:01.900840",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "user_id": 1968441734,
+      "patient_name": "Чебуреков Сидор",
+      "doctor": "Невролог Козлова Н.В.",
+      "procedure": "МРТ",
+      "date": "04.03.2026",
+      "time": "15:00",
+      "created_at": "2026-02-27T13:21:43.510200",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "user_id": 1968441734,
+      "patient_name": "Петров Ян",
+      "doctor": "Хирург Петров В.И.",
+      "procedure": "Малая операция",
+      "date": "01.03.2026",
+      "time": "12:00",
+      "created_at": "2026-02-27T13:23:31.977334",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "user_id": 1115417901,
+      "patient_name": "Лохин Лошок Дебилович",
+      "doctor": "Невролог Козлова Н.В.",
+      "procedure": "Консультация",
+      "date": "05.03.2026",
+      "time": "14:00",
+      "created_at": "2026-02-27T13:23:39.539622",
+      "status": "active"
+    }
+  ],
+  "users": {
+    "1968441734": {
+      "username": "fanatbarceloni",
+      "first_name": "PeNiViZe",
+      "registered_at": "2026-02-27T13:13:49.161590"
+    },
+    "1115417901": {
+      "username": "yourRaichu",
+      "first_name": "-",
+      "registered_at": "2026-02-27T13:14:01.581828"
+    }
+  },
+  "next_id": 6
+}
